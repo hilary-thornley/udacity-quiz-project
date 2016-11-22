@@ -2,7 +2,7 @@
 Second project of Udacity's "Intro to Programming" Nanodegree
 
 ## Overview
-This project includes a SQL module that creates a database for storing data on a "swiss pairings" style tournament, as well as a Python code module for creating records of tournament players, matches and results to be stored in the database.
+Built a fill-in-the blanks type quiz to leverage the power of functions in Python and mastered the ability to automate repetitive tasks that can be done on a computer.
 
 ## Instructions for testing the modules:
 * Follow [Udacity's guide to installing and running Vagrant] (https://www.udacity.com/wiki/ud197/install-vagrant?_ga=1.62732204.1876431276.1456523634).
